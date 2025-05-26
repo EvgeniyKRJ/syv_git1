@@ -1,0 +1,15 @@
+C:\project_for_git\git_pr\CsharpProjects\Project_for_GIT\bin\Debug\net8.0\Project_for_GIT.exe
+C:\project_for_git\git_pr\CsharpProjects\Project_for_GIT\bin\Debug\net8.0\Project_for_GIT.deps.json
+C:\project_for_git\git_pr\CsharpProjects\Project_for_GIT\bin\Debug\net8.0\Project_for_GIT.runtimeconfig.json
+C:\project_for_git\git_pr\CsharpProjects\Project_for_GIT\bin\Debug\net8.0\Project_for_GIT.dll
+C:\project_for_git\git_pr\CsharpProjects\Project_for_GIT\bin\Debug\net8.0\Project_for_GIT.pdb
+C:\project_for_git\git_pr\CsharpProjects\Project_for_GIT\obj\Debug\net8.0\Project_for_GIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\project_for_git\git_pr\CsharpProjects\Project_for_GIT\obj\Debug\net8.0\Project_for_GIT.AssemblyInfoInputs.cache
+C:\project_for_git\git_pr\CsharpProjects\Project_for_GIT\obj\Debug\net8.0\Project_for_GIT.AssemblyInfo.cs
+C:\project_for_git\git_pr\CsharpProjects\Project_for_GIT\obj\Debug\net8.0\Project_for_GIT.csproj.CoreCompileInputs.cache
+C:\project_for_git\git_pr\CsharpProjects\Project_for_GIT\obj\Debug\net8.0\Project_for_GIT.dll
+C:\project_for_git\git_pr\CsharpProjects\Project_for_GIT\obj\Debug\net8.0\refint\Project_for_GIT.dll
+C:\project_for_git\git_pr\CsharpProjects\Project_for_GIT\obj\Debug\net8.0\Project_for_GIT.pdb
+C:\project_for_git\git_pr\CsharpProjects\Project_for_GIT\obj\Debug\net8.0\Project_for_GIT.genruntimeconfig.cache
+C:\project_for_git\git_pr\CsharpProjects\Project_for_GIT\obj\Debug\net8.0\ref\Project_for_GIT.dll
+C:\project_for_git\git_pr\CsharpProjects\Project_for_GIT\obj\Debug\net8.0\Project_for_GIT.sourcelink.json
