@@ -28,7 +28,7 @@ class NotesApp
         {
             Console.Clear();
             Console.WriteLine("=== ПРОГРАММА ДЛЯ ЗАМЕТОК ===");
-            Console.WriteLine("1. Просмотреть все заметки");
+            Console.WriteLine("1. Просмотреть все ваши заметки");
             Console.WriteLine("2. Добавить новую заметку");
             Console.WriteLine("3. Редактировать заметку");
             Console.WriteLine("4. Удалить заметку");
