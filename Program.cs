@@ -124,7 +124,7 @@ class NotesApp
         }
 
         ShowAllNotes();
-        Console.Write("\nВведите номер заметки для редактирования: ");
+        Console.Write("\nВведите номер вашей заметки для редактирования: ");
 
         if (int.TryParse(Console.ReadLine(), out int index) && index > 0 && index <= notes.Count)
         {
